@@ -1,0 +1,5 @@
+Source: dj-az-c-sdk-consolidated
+Version: 0.1.0-preview.2
+Homepage: https://github.com/Azure/azure-sdk-for-c/tree/djurek/vcpkg-consolidated
+Description: Microsoft Azure SDK for Embedded C
+Build-Depends: curl[ssl] (!windows), curl[winssl] (windows)
